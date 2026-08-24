@@ -55,7 +55,9 @@ print(x, y, z)  # Output : 0, 0, 0
 #             example - z = {"dd" : 11, "aa" : "jjj"}
 
 
+# ==========================================
 # Type Casting / Type Conversion
+# ==========================================
 # - It means to convert one data type value into another data type value.
 # - But note there are some rules for type conversion which we need to follow else type casting will result in error.
 # - It is of 2 types:
@@ -74,7 +76,9 @@ print(x, y, z)  # Output : 0, 0, 0
 # 1. ValueError - It occurs when you try to convert a value into another data type which is not possible for python.
 # 2. TypeError - It occurs when we tryb to perform an operation between teo different data type values which is noot possible for python.
 
-
+# ==========================================
+# ==========================================
+# ==========================================
 # Write a code to ask user for values for 2 variables (x, y)
 # and swap there values. Output should show x = 20 and y = 10
 
@@ -91,5 +95,9 @@ temp = x #temporary variable to hold x value while x is changed to y.
 x = y 
 y = temp
 print(x,y)
+# ==========================================
+# ==========================================
+# ==========================================
 
+#Have a Nice Day.
 
