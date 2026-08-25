@@ -77,6 +77,15 @@ print(x, y, z)  # Output : 0, 0, 0
 # 2. TypeError - It occurs when we tryb to perform an operation between teo different data type values which is noot possible for python.
 
 # ==========================================
+# Nested Type Casting
+# ==========================================
+# - It means wrapping one type casting function inside another.
+# - The inner bracket is solved first.
+a = str(int(float("7.8")))
+print(a, type(a))               # **type()** is a function used to find the datatype
+
+
+# ==========================================
 # ==========================================
 # ==========================================
 # Write a code to ask user for values for 2 variables (x, y)
