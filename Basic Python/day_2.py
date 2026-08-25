@@ -84,6 +84,8 @@ print(x, y, z)  # Output : 0, 0, 0
 a = str(int(float("7.8")))
 print(a, type(a))               # **type()** is a function used to find the datatype
 
+# **By default the input function gets the value in string Data Type so for performing mathematical operations
+#      we have to Type Cast it into Integer or Float.
 
 # ==========================================
 # ==========================================
@@ -92,14 +94,14 @@ print(a, type(a))               # **type()** is a function used to find the data
 # and swap there values. Output should show x = 20 and y = 10
 
 # Method 1 (Without Temporary variable)
-x = int(input("Enter value for 1st variable : ")  #Type Casting is being performed to convert the output to integer
-y = int(input("Enter value for 2nd variable : ")  #Type Casting is being performed to convert the output to integer
+x = int(input("Enter value for 1st variable : ")  #Type Casting is being performed to convert the input to integer
+y = int(input("Enter value for 2nd variable : ")  #Type Casting is being performed to convert the input to integer
 x, y = y, x #Many to Many used instead of a temporary variable.
 print(x,y)
 
 # Method 2 (Using a Temporary Variable)
-x = int(input("Enter value for 1st variable : ")  #Type Casting is being performed to convert the output to integer
-y = int(input("Enter value for 2nd variable : ")  #Type Casting is being performed to convert the output to integer
+x = int(input("Enter value for 1st variable : ")  #Type Casting is being performed to convert the input to integer
+y = int(input("Enter value for 2nd variable : ")  #Type Casting is being performed to convert the input to integer
 temp = x #temporary variable to hold x value while x is changed to y.
 x = y 
 y = temp
