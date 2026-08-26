@@ -35,5 +35,15 @@
 
 ---
 
+* 📄 **day_4.py**
+  * Collection Data-Types
+  * Sequence Data Types - Indexing through position numbers.
+  * Non Sequence Data Types - Indexing through keys.
+  * Joining Two Strings.
+  * Using eval() function.
+  * **Challenge:** Create a dynamic calculator using eval().
+
+---
+
 
 
