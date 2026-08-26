@@ -1,4 +1,6 @@
 # Welcome Back !
+
+
 # ==========================================
 # Collection Data Types -
 # ==========================================
@@ -16,6 +18,8 @@
                          x = {"Name" : "Mango", "Age" : 26, "Salary" : 1000}
                          #print(x[0])     #Gives error because cant call non-sequence based on index so we use keys
                          print(x["Name"])  # Output ==> "Mango"
+
+
 # ==========================================
 # Joining two Strings
 # ==========================================
@@ -26,6 +30,7 @@ print("Hello" + " " + name)
 # - The **" "** part in the print statement adds a whitespace between Hello and the Name typed by user. We can add 
 #   as many strings we want like this
 
+
 # ==========================================
 # **eval()** 
 # ==========================================
@@ -33,6 +38,7 @@ print("Hello" + " " + name)
 # - So for example if we write "6 + 9", Normally it is considered as string in python brcause
 #   it is inside double quotes, but if we pass the same string to **eval()** function it 
 #   it does not treat it as a string and performs addition for 6 and 9 and we get 15.
+
 
 # ==========================================
 # ==========================================
