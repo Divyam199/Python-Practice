@@ -2,6 +2,8 @@
 
 
 # ==========================================
+# ==========================================
+# ==========================================
 # SOLUTION 1: WHOLE NUMBER BILL SPLITTER
 # ==========================================
 print("--- Question 1: Bill Splitter ---")
@@ -58,6 +60,9 @@ calculated_index = user_number % 4
 won_prize = prizes[calculated_index]
 print("Congratulations! You have won a: " + won_prize)
 
+# ==========================================
+# ==========================================
+# ==========================================
 
 
 #Have a Nice Day
