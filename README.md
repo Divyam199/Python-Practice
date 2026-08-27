@@ -45,5 +45,14 @@
 
 ---
 
+* 📄 **day_5.py**
+  * Practice Questions
+  * Question 1: Bill Splitter
+  * Question 2: Senior Citizen Check
+  * Question 3: Server Domain Lookup
+  * Question 4: Lucky Draw Reward
+
+---
+
 
 
