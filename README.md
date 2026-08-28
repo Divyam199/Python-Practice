@@ -54,5 +54,14 @@
 
 ---
 
+* 📄 **day_6.py**
+  * F-Strings
+  * Basic if and else Statements
+  * The elif (Else-If) Ladder
+  * Nested if Statements
+  * **Challenge:** Checking the Grade based on the score.
+
+---
+
 
 
