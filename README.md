@@ -63,5 +63,15 @@
 
 ---
 
+* 📄 **day_7.py**
+  * Introduction to Loops
+  * The **while** Loop
+  * The **for** Loop
+  * The **range()** Function
+  * Loop Control Statements
+  * **Challenge:** Multiplication Table Generator
+
+---
+
 
 
