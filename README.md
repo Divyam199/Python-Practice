@@ -73,5 +73,11 @@
 
 ---
 
+* 📄 **day_8.py**
+  * Nested Loops in Python
+  * Loop Control Patterns (String Multiplication)
+  * Pattern 1: Full Pyramid
+  * Pattern 2: Diamond Shape
+  * **Challenge:** Write a code to generate a HOLLOW SQUARE
 
-
+---
