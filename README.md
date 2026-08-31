@@ -81,3 +81,21 @@
   * **Challenge:** Write a code to generate a HOLLOW SQUARE
 
 ---
+
+* 📄 **day_9.py**
+  * Collection Data Types Deep Dive
+  * Lists - `.append()`, `.insert()`, `.extend()`, `.pop()`, `.sort()`.
+  * Tuples 
+  * Dictionaries - `.get()`, `.keys()`, `.values()`, `.items()`.
+  * Sets - `union()` and `intersection()`.
+  * **Challenge:** Develop a **Student Database Management System**
+
+---
+
+
+
+
+
+
+
+
