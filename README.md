@@ -4,7 +4,8 @@
 ---
 
 ## 📂 basic-python /
-* 📄 **day_1.py**
+
+* 📄 **day_01.py**
   * What is Python
   * First Code
   * Primitive Data Types
@@ -14,7 +15,7 @@
 
  ---
     
-* 📄 **day_2.py**
+* 📄 **day_02.py**
   * Variable naming rules
   * Multiple value assignment in a single line
   * Collection Data-Types
@@ -23,7 +24,7 @@
 
 ---
 
-* 📄 **day_3.py**
+* 📄 **day_03.py**
   * Operators
   * Arithmetic Operators: Handles math functions (+, -, *, /, //, %, **).
   * PEMDAS Rule: Dictates operation order (Parentheses, Exponents, MD/AS left-to-right).
@@ -35,7 +36,7 @@
 
 ---
 
-* 📄 **day_4.py**
+* 📄 **day_04.py**
   * Collection Data-Types
   * Sequence Data Types - Indexing through position numbers.
   * Non Sequence Data Types - Indexing through keys.
@@ -45,7 +46,7 @@
 
 ---
 
-* 📄 **day_5.py**
+* 📄 **day_05.py**
   * Practice Questions
   * Question 1: Bill Splitter
   * Question 2: Senior Citizen Check
@@ -54,7 +55,7 @@
 
 ---
 
-* 📄 **day_6.py**
+* 📄 **day_06.py**
   * F-Strings
   * Basic if and else Statements
   * The elif (Else-If) Ladder
@@ -63,7 +64,7 @@
 
 ---
 
-* 📄 **day_7.py**
+* 📄 **day_07.py**
   * Introduction to Loops
   * The **while** Loop
   * The **for** Loop
@@ -73,7 +74,7 @@
 
 ---
 
-* 📄 **day_8.py**
+* 📄 **day_08.py**
   * Nested Loops in Python
   * Loop Control Patterns (String Multiplication)
   * Pattern 1: Full Pyramid
@@ -82,13 +83,24 @@
 
 ---
 
-* 📄 **day_9.py**
+* 📄 **day_09.py**
   * Collection Data Types Deep Dive
   * Lists - `.append()`, `.insert()`, `.extend()`, `.pop()`, `.sort()`.
   * Tuples 
   * Dictionaries - `.get()`, `.keys()`, `.values()`, `.items()`.
   * Sets - `union()` and `intersection()`.
   * **Challenge:** Develop a **Student Database Management System**
+
+---
+
+* 📄 **day_10.py**
+  * Indexing and Slicing Deep Dive
+  * Positive & Negative Indexing
+  * Basic Slicing
+  * Advanced Slicing with Step
+  * Slice Assignment
+  * Out-of-Bounds Behavior
+  * **Challenge:** Create a **Palindrome Checker**
 
 ---
 
