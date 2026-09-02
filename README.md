@@ -104,7 +104,17 @@
 
 ---
 
+* 📄 **day_11.py**
+  * What a function is (Syntax)
+  * Function with Parameters
+  * Positional Arguments
+  * Default Parameters
+  * Return Statement
+  * Returning Multiple Values
+  * Variable Scope (Global, Local)
+  * **Challenge:** Create a function called `calculate_average()` to get average
 
+---
 
 
 
