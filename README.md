@@ -116,6 +116,20 @@
 
 ---
 
+* 📄 **day_12.py**
+  * Function Practice
+  * Common Function Questions
+  * Functions + Collection Data Types
+  * Function calling Functions
+  * Menu Driven Program
+  * Student Marks Analyzer
+  * **Challenge:** Create a function called `check_subject_pass` to get subjects failed
+
+---
+
+
+
+
 
 
 
