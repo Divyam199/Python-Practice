@@ -127,7 +127,17 @@
 
 ---
 
+* 📄 **day_13.py**
+  * What a module is
+  * Why modules are useful
+  * What import does
+  * How to import math
+  * How to use math.sqrt()
+  * How to access things using the dot (.)
+  * Function vs module
+  * **Challenge:** Calculate the Square Root and Square of a Number by using "math" Module
 
+---
 
 
 
