@@ -153,8 +153,8 @@
 
 * 📄 **day_15.py**
   * File Handling
-  * WHat is File Handling?
-  * OPening a File
+  * What is File Handling?
+  * Opening a File
   * Reading a File
   * Why do we close a File?
   * Using "with open()"
