@@ -139,6 +139,18 @@
 
 ---
 
+* 📄 **day_14.py**
+  * Import Modules (Part 2)
+  * from ... import
+  * Importing multiple things
+  * Import aliases
+  * The random module
+  * random.randint()
+  * random.choice()
+  * **Challenge:** Create a simple random number game and Rock Paper Scissors Game.
+    
+---
+
 
 
 
