@@ -151,7 +151,22 @@
     
 ---
 
-
+* 📄 **day_15.py**
+  * File Handling
+  * WHat is File Handling?
+  * OPening a File
+  * Reading a File
+  * Why do we close a File?
+  * Using "with open()"
+  * Writing to a File
+  * Appending to a File
+  * Reading Line by Line
+  * readlines()
+  * Looping through a File
+  * Simple File Program
+  * **Challenge:** Create a Notes App using File Handling.
+    
+---
 
 
 
