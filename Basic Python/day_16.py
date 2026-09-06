@@ -5,13 +5,13 @@
 # ==========================================
 
 # ------------------------------------------
-# 1. WHAT IS EXCEPTION HANDLING?
+# WHAT IS EXCEPTION HANDLING?
 # ------------------------------------------
 # An exception is an error that occurs while
 # the program is running.
 
 # ------------------------------------------
-# 2. BASIC TRY AND EXCEPT
+# BASIC TRY AND EXCEPT
 # ------------------------------------------
 try:
     num = int(input("Enter a number: "))
@@ -20,7 +20,7 @@ except ValueError:
     print("Invalid input! Please enter a number.")
 
 # ------------------------------------------
-# 3. ZERO DIVISION ERROR
+# ZERO DIVISION ERROR
 # ------------------------------------------
 try:
     number = int(input("\nEnter a number: "))
@@ -32,7 +32,7 @@ except ValueError:
     print("Error! Please enter a valid number.")
 
 # ------------------------------------------
-# 4. MULTIPLE EXCEPT BLOCKS
+# MULTIPLE EXCEPT BLOCKS
 # ------------------------------------------
 try:
     numbers = [10, 20, 30]
@@ -44,7 +44,7 @@ except IndexError:
     print("Index is out of range.")
 
 # ------------------------------------------
-# 5. USING ELSE
+# USING ELSE
 # ------------------------------------------
 try:
     age = int(input("\nEnter your age: "))
@@ -55,7 +55,7 @@ else:
     print("Your age is:", age)
 
 # ------------------------------------------
-# 6. USING FINALLY
+# USING FINALLY
 # ------------------------------------------
 
 try:
@@ -69,7 +69,7 @@ finally:
     print("Program finished.")  
 
 # ------------------------------------------
-# 7. FILE NOT FOUND ERROR
+# FILE NOT FOUND ERROR
 # ------------------------------------------
 try:
     with open("sample.txt", "r") as file:
@@ -78,7 +78,7 @@ except FileNotFoundError:
     print("File not found!")
 
 # ------------------------------------------
-# 8. KEY ERROR
+# KEY ERROR
 # ------------------------------------------
 student = {
 "name": "Rahul",
@@ -90,7 +90,7 @@ except KeyError:
     print("This key does not exist.")
 
 # ------------------------------------------
-# 9. RAISING AN EXCEPTION
+# RAISING AN EXCEPTION
 # ------------------------------------------
 try:
     age = int(input("\nEnter your age: "))
