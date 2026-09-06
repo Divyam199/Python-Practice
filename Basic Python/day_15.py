@@ -39,10 +39,13 @@
 
 # Hello Python!
 # I am learning file handling.
-file = open(".txt_files/sample.txt", "w")  # When we open a file in "w" mode it creates the file if it does not exist.
-file.close()                          # Here the path for the file is folder_name/"name".txt. Remember the folder should exist.
-                                      # We can also use any other file path present in the system or just write the name of the 
-                                      # txt file and it will be created in the working directory.
+
+# When we open a file in "w" mode it creates the file if it does not exist.
+# Here the path for the file is folder_name/"name".txt. Remember the folder should exist.
+# We can also use any other file path present in the system or just write the name of the 
+# txt file and it will be created in the working directory.
+file = open(".txt_files/sample.txt", "w")  
+file.close()                          
 file = open(".txt_files/sample.txt", "r")
 content = file.read()
 print(content)
