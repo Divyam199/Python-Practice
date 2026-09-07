@@ -168,7 +168,20 @@
     
 ---
 
-
+* 📄 **day_16.py**
+  * Exception Handling
+  * What is Exception Handling?
+  * Basic Try and Except
+  * Zero Division Error
+  * Multiple Excet Blocks
+  * Using Else
+  * Using Finally
+  * File not Found Error
+  * Key Error
+  * Raising an Exception
+  * **Challenge:** Write a code to Create a Safe ATM Program.
+    
+---
 
 
 
