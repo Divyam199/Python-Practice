@@ -188,7 +188,7 @@
   * Creating a Class
   * Creating Multiple objects
   * Understanding Self
-  * Using __init__ constructor
+  * Using \__init__ constructor
   * Instance Variables
   * Instance Methods
   * Modifying Object Attributes
