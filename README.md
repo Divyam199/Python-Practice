@@ -197,3 +197,15 @@
     
 ---
 
+* 📄 **day_18.py**
+  * Inheritence in Python
+  * Single Inheritence
+  * Inheriting Attributes
+  * Using super()
+  * Multilevel Inheritence
+  * Multiple Inheritence
+  * Method Overriding
+  * Calling Parent method using super()
+  * **Challenge:** Write a code to Create Vehicle Management System.
+    
+---
