@@ -209,3 +209,14 @@
   * **Challenge:** Write a code to Create Vehicle Management System.
     
 ---
+
+* 📄 **day_19.py**
+  * Encapsulation
+  * Public Variables
+  * Private Variables
+  * Protected Variables
+  * Getter and Setter methods
+  * Using @property to access Private Variables
+  * **Challenge:** Write a code to Create Bank Account Management System.
+    
+---
