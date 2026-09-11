@@ -220,3 +220,14 @@
   * **Challenge:** Write a code to Create Bank Account Management System.
     
 ---
+
+* 📄 **day_20.py**
+  * Polymorphism
+  * Simple Polymorphism
+  * Polymorphism using a Function
+  * Polymorphism using a List
+  * Polymorphism with Inheritence
+  * Built in Polymorphism
+  * **Challenge:** Write a code to Create Payment System (Credit card, UPI, Cash).
+    
+---
