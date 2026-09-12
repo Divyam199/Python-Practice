@@ -231,3 +231,12 @@
   * **Challenge:** Write a code to Create Payment System (Credit card, UPI, Cash).
     
 ---
+
+* 📄 **day_21.py**
+  * Python Practice Problems
+  * Duplicate Elements
+  * Second Largest Number
+  * Student Marks Analyzer
+  * Student Frequency Analyzer
+    
+---
