@@ -240,3 +240,10 @@
   * Student Frequency Analyzer
     
 ---
+
+* 📄 **day_22.py**
+  * Python Practice Problems
+  * Check Leap Year
+  * Calculate Electricity Bill
+    
+---
