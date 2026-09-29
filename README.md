@@ -245,5 +245,6 @@
   * Python Practice Problems
   * Check Leap Year
   * Calculate Electricity Bill
+  * Find Maximum in a List
     
 ---
